@@ -8,3 +8,8 @@
 
 #### Operations
 1) [Increment](https://github.com/qwchagas/qiskit/blob/master/operations/increment.ipynb): generalized increment operation
+2) [Decrement](https://github.com/qwchagas/qiskit/blob/master/operations/decrement.ipynb): generalized decrement operation
+
+
+#### Quantum Walks
+
