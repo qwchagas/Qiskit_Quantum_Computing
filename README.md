@@ -12,6 +12,7 @@
 2) [Decrement](https://github.com/qwchagas/qiskit/blob/master/operations/decrement.ipynb): here we find the decrement operator, performing in arithmetic modulo N, but in a optimized version, because we can group some X operators and we lower the number of gates here.
 
 #### Quantum Walks
+1) [Coined Quantum Walk on a Cycle Graph](https://github.com/qwchagas/Qiskit_Quantum_Computing/blob/master/quantum_walks/coined_quantum_walk_line.ipynb): we have a general implementation for a coined quantum walk, you may choose whatever coin you want, for an arbitrary cycle of size N, since N is the hilbert dimension. Moreover, we used the controlled increment and decrement operations
 
 #### Miscellaneous
 
