@@ -8,7 +8,7 @@
 
 #### Operations
 1) [Increment](https://github.com/qwchagas/qiskit/blob/master/operations/increment.ipynb): we have a general increment operator, performing in arithmetic modulo N, and this is a very useful operation for Quantum Walks. Although, I will use this function in Quantum Walks, but in a controlled version.
-2) [Decrement](https://github.com/qwchagas/qiskit/blob/master/operations/decrement.ipynb): here we find the decrement operator, performing in arithmetic modulo N, but in a optimized version, because we can group some X operator and we lower the number of gates here.
+2) [Decrement](https://github.com/qwchagas/qiskit/blob/master/operations/decrement.ipynb): here we find the decrement operator, performing in arithmetic modulo N, but in a optimized version, because we can group some X operators and we lower the number of gates here.
 
 #### Quantum Walks
 
