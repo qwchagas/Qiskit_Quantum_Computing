@@ -15,5 +15,5 @@
 
 #### Miscellaneous
 
-1) [IBM Quantum Challenge 2020](https://github.com/qwchagas/qiskit/blob/master/misc/challenge4_circuit_optimization_ibm.ipynb): here I explored the sensibility of the transpile function adding up a global phase to a diagonal operator in order to lower the number of gates. My best score was 50.
+1) [IBM Quantum Challenge 2020](https://github.com/qwchagas/qiskit/blob/master/misc/challenge4_circuit_optimization_ibm.ipynb): I explored the sensibility of the transpile function adding up a global phase to a diagonal operator in order to lower the number of gates. My best score was 50.
 
